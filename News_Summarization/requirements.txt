@@ -1,0 +1,6 @@
+gradio==5.9.1
+transformers
+torch
+beautifulsoup4
+requests
+nltk
