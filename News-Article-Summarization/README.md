@@ -78,7 +78,7 @@ nltk
 ## ⚠️ Notes
 
 - Processing time varies based on article length
-- Look for "Running..." indicator while processing
+- Look for "Processing..." indicator while processing
 - Wait patiently for best results
 - Model can be changed to T5 or GPT-2 for different results
 
