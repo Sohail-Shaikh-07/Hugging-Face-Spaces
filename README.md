@@ -5,7 +5,7 @@ Welcome to the **Hugging-Face-Spaces** repository! This repository serves as a c
 ## Projects
 
 ### 1. **News Article Summarization**
-This project is a text summarization application designed to generate concise summaries of news articles. It is built using Python and leverages Hugging Face's powerful models for natural language processing (NLP) and deployed as Spaces app on huggingface with *gradio*.
+This project is a text summarization application designed to generate concise summaries of news articles. It is built using Python and leverages Hugging Face's powerful models for natural language processing (NLP) and deployed as Spaces app on huggingface with **_gradio_**.
 
 - **Folder Name:** `News-Article-Summarization`
 - **Key Files:**
@@ -47,7 +47,7 @@ To explore or run any project from this repository:
 Contributions, suggestions, and feedback are always welcome! Feel free to open an issue or submit a pull request if you have any ideas or improvements.
 
 ## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the [Global MIT License](https://github.com/Sohail-Shaikh-07/LICENSE/blob/main/LICENSE)
 
 ## Contact
 For any questions or inquiries, feel free to reach out:
